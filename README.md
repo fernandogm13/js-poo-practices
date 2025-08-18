@@ -35,5 +35,4 @@ O objetivo é aplicar conceitos como **classes, constructors, herança, getters/
 ```bash
 git clone https://github.com/SEU_USUARIO/js-poo-practices.git
 
-![JS](<img width="1918" height="1030" alt="image" src="https://github.com/user-attachments/assets/7e7daf68-77fc-4e56-8cbf-6c40cc16e725" />
-)
+<img width="1918" height="1030" alt="image" src="https://github.com/user-attachments/assets/7e7daf68-77fc-4e56-8cbf-6c40cc16e725" />
