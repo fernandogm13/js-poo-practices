@@ -34,5 +34,3 @@ O objetivo é aplicar conceitos como **classes, constructors, herança, getters/
 1. Clone o repositório:
 ```bash
 git clone https://github.com/SEU_USUARIO/js-poo-practices.git
-
-<img width="1918" height="1030" alt="image" src="https://github.com/user-attachments/assets/7e7daf68-77fc-4e56-8cbf-6c40cc16e725" />
