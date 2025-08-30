@@ -1,6 +1,6 @@
 # JS POO Practices
 
-Este repositório contém exercícios e mini-projetos que pratiquei durante meus estudos de **Programação Orientada a Objetos (POO) em JavaScript**.  
+Este repositório contém exercícios que pratiquei durante meus estudos de **Programação Orientada a Objetos (POO) em JavaScript**.  
 O objetivo é aplicar conceitos como **classes, constructors, herança, getters/setters, encapsulamento e métodos**, de forma prática e organizada.
 
 ---
